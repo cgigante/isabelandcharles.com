@@ -34,13 +34,14 @@
 				<div class="row">
 					<div class="col-md-12 coming-soon">
 						<div class="section-title">
-							<h1>Isabel &amp; Charles, Inc.</h1>
+							<img style="margin:0 auto;" class="img-responsive" src="images/ISABEL_AND_CHARLES_LOGO.png" alt="Isabel and Charles Logo" title="Isabel and Charles Logo" />
+							<!-- <h1>Isabel &amp; Charles, Inc.</h1> -->
 							<h3>Web Production, Mobile App Development, Design</h3>
 							<h1><span class="candiman">Coming Soon</span></h1>
 							<span class="border-line"></span>
 							<br>
 							<p class="lead">
-								Isabel &amp; Charles, Inc. was founded by web developer mobile industry veteran <a href="http://crg.io" target="_blank">Charles Gigante</a> in 2016 to provide a wide variety of digital services at competetive prices.
+								Isabel &amp; Charles, Inc. was founded by web developer and mobile industry veteran <a href="http://crg.io" target="_blank">Charles Gigante</a> in 2016 to provide a wide variety of digital services at competetive prices.
 								<br>
 								<br>
 								Reach out to Charles directly at <a href="mailto:charlie@crg.io">charlie@crg.io</a> for questions or to schedule a consultation. Thanks for visiting.
@@ -71,15 +72,9 @@
 							2016 &copy; Isabel &amp; Charles, Inc. All Rights Reserved
 						</p> 
 				</div>
-				<!-- <div class="col-sm-6">
-					<div class="coming-soon-plugin" >
-							<div id="defaultCountdown"></div>
-					</div>
-				</div> -->
-
 			</div>
 
-			</div>
+			
 			<!--=== End Sticky-Footer ===-->
 
 
