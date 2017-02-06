@@ -41,7 +41,7 @@
 							<span class="border-line"></span>
 							<br>
 							<p class="lead">
-								Isabel &amp; Charles, Inc. was founded by web developer and mobile industry veteran <a href="http://crg.io" target="_blank">Charles Gigante</a> in 2016 to provide a wide variety of digital services at competetive prices.
+								Isabel &amp; Charles, Inc. was founded by web developer and mobile industry veteran <a href="http://crg.io" target="_blank">Charles Gigante</a> in 2016 to provide a wide variety of digital services at competitive prices.
 								<br>
 								<br>
 								Reach out to Charles directly at <a href="mailto:charlie@crg.io">charlie@crg.io</a> for questions or to schedule a consultation. Thanks for visiting.
